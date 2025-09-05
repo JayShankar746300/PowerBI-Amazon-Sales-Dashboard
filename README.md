@@ -1,4 +1,4 @@
-<img width="1563" height="743" alt="Power BI  Dashboard" src="https://github.com/user-attachments/assets/b5b9f4d5-1dde-4567-b26f-a29ac16218b8" /># PowerBI-Amazon-Sales-Dashboard
+
 # 📊 Amazon Sales Dashboard (Power BI)
 
 This repository contains an interactive **Power BI Dashboard** that analyzes Amazon's global sales performance from 2012 to 2015.
